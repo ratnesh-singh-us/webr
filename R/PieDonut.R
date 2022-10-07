@@ -72,7 +72,7 @@ makeSubColor=function(main,no=3){
 #'@param use.labels Logical. Whether or not use value labels in case of labelled data
 #'@param family font family
 #'@importFrom ggplot2 aes geom_segment coord_fixed scale_fill_manual xlim ylim annotate geom_text guides
-#'@importFrom ggrepel geom_text_repel_repel geom_label_repel
+#'@importFrom ggrepel geom_text_repel geom_label_repel
 #'@importFrom grid grid.newpage viewport
 #'@importFrom ggforce geom_arc_bar theme_no_axes
 #'@importFrom rlang .data
